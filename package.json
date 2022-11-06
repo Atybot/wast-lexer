@@ -1,0 +1,12 @@
+ {
+        "name": "wast-lexer",
+        "version": "1.0.0",
+        "description": "WebAssembly Text Format Lexical Analyzer",
+        "main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/atybot/wast-lexer.git"
+	},
+	"author": "Atybot",
+	"keywords": ["webassembly", "lexer"]
+}
